@@ -1,0 +1,2 @@
+0 x=int(abs(sin(c/1.9)*3.1))+1:a$=mid$("   *    * *  *   **     ",x*6-5,6)
+1 b$(4)="*":printa$a$a$b$(x):c=c+1:ifc<19then0
