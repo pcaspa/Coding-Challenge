@@ -1,7 +1,7 @@
 ## Vintage Computing Christmas Challenge 2023 (VC³ 2023) 
 A small programming contest that ran from Monday, 4.12.2023 until Monday, 25.12.2023. 
 
-Below are my entries on various retro hardware
+The idea is to produce the pattern with as few bytes of code as possible.  Just for fun I tried it on my collection of retro PCs but submitted for the Commodore 64 only.  It had the smallest byte count for the retro PCs in my collection at 109 bytes
 
 ![20231222_234708](https://github.com/pcaspa/Coding-Challenge/assets/5567572/a7704362-8433-4989-97c6-930847876b95)
 ![20231222_234658](https://github.com/pcaspa/Coding-Challenge/assets/5567572/b60c7a57-c439-462d-b59a-ed623edd27db)
